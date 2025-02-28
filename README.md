@@ -79,7 +79,7 @@ After thorough validation and private leaderboard scoring, three solutions emerg
 
 1. **Clone This Repo (with Submodules)**
    ```bash
-   git clone --recursive https://github.com/Trustii-io/cytologia-challenge-results.git
+   git clone --recursive https://github.com/Trustii-team/Cytologia.git
 
 ## Who to contact
 
