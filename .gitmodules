@@ -1,0 +1,9 @@
+[submodule "MPWARE"]
+	path = MPWARE
+	url = https://github.com/MPWARE-TEAM/Cytologia.git
+[submodule "Xueer"]
+	path = Xueer
+	url = https://github.com/xueerchen1990/cytologia_2nd_place.git
+[submodule "Simon_Thomine"]
+	path = Simon_Thomine
+	url = https://github.com/SimonThomine/Cytologia-Data-Challenge.git
